@@ -4,10 +4,10 @@
 
 ## INTERESTS
 
--Computer security. It means reading various articles and watching videos about the problems of protecting modern computer systems. And my specialty is connected with this. In the future I am going to learn more information about this topic. 
+-**Computer security**. It means reading various articles and watching videos about the problems of protecting modern computer systems. And my specialty is connected with this. In the future I am going to learn more information about this topic. 
 
--Travelling. I get pleasure visiting new places. Usually I travel in different parts of Belarus. 
+-**Travelling**. I get pleasure visiting new places. Usually I travel in different parts of Belarus. 
 
--Teaching. In the university I work as a teacher of programming elective for first-year students. We parse academic and my own tasks. Its difficult to work with a big audience. But at the same time it is a good experience for me. 
+-**Teaching**. In the university I work as a teacher of programming elective for first-year students. We parse academic and my own tasks. Its difficult to work with a big audience. But at the same time it is a good experience for me. 
 
-## MY TASKS
+### MY TASKS
