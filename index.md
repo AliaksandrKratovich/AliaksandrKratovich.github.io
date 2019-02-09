@@ -1,7 +1,7 @@
 
 ## ABOUT ME
 
-  I study in the BSU, the Faculty of Radiophysics and Computer Technologies in the second year. My specialty is Computer Security.I’m a responsible and purposeful student with great desire to develop skills and work in IT sphere. Solving difficult tasks I develop my thinking, imagination and logic. I have no experience in creating real costum projects, but I strive for this. I’m ready to devote much time to get practice creating software. Knowledge about C/C++ helps me to study new systems. I have passed the Epam’s course “C/C++ LEARNING COURSE FOR STUDENTS”.
+  I study in the BSU, the Faculty of Radiophysics and Computer Technologies in the second year. My specialty is Computer Security.I’m a responsible and purposeful student with great desire to develop skills and work in IT sphere. Solving difficult tasks I develop my thinking, imagination and logic. I have no experience in creating real costum projects, but I strive for this. I’m ready to devote much time to get practice creating software. Knowledge about C/C++ helps me to study new systems. I have passed the Epam’s course “C/C++ LEARNING COURSE FOR STUDENTS”. In the future I would like to take part in foreign projects.
 
 ## INTERESTS
 
