@@ -11,4 +11,4 @@
 
 **Teaching**. In the university I work as a teacher of programming elective for first-year students. We parse academic and my own tasks. It's difficult to work with a big audience. But at the same time it is a good experience for me. 
 
-### MY TASKS
+### *MY TASKS*
