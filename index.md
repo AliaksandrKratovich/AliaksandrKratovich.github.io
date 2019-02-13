@@ -13,4 +13,4 @@
 
 ### *MY TASKS*
 
-1.[FancyCalc](https://github.com/AliaksandrKratovich/FancyCalc)
+1. [FancyCalc](https://github.com/AliaksandrKratovich/FancyCalc)
