@@ -14,3 +14,4 @@
 ### *MY TASKS*
 
 1. [FancyCalc](https://github.com/AliaksandrKratovich/FancyCalc)
+2. [PadawansTask1](https://github.com/AliaksandrKratovich/PadawansTask1)
