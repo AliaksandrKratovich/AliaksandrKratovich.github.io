@@ -15,3 +15,4 @@
 
 1. [FancyCalc](https://github.com/AliaksandrKratovich/FancyCalc)
 2. [PadawansTask1](https://github.com/AliaksandrKratovich/PadawansTask1)
+3. [PadawansTask2](https://github.com/AliaksandrKratovich/PadawansTask2)
