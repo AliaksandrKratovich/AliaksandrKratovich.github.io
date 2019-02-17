@@ -19,3 +19,4 @@
 4. [PadawansTask3](https://github.com/AliaksandrKratovich/PadawansTask3)
 5. [PadawansTask4](https://github.com/AliaksandrKratovich/PadawansTask4)
 6. [PadawansTask5](https://github.com/AliaksandrKratovich/PadawansTask5)
+7. [PadawansTask6](https://github.com/AliaksandrKratovich/PadawansTask6)
