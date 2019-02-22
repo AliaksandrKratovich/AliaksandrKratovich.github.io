@@ -22,3 +22,8 @@
 7. [PadawansTask6](https://github.com/AliaksandrKratovich/PadawansTask6)
 8. [PadawansTask7](https://github.com/AliaksandrKratovich/PadawansTask7)
 9. [PadawansTask8](https://github.com/AliaksandrKratovich/PadawansTask8)
+10. [PadawansTask9](https://github.com/AliaksandrKratovich/PadawansTask9)
+11. [PadawansTask10](https://github.com/AliaksandrKratovich/PadawansTask10)
+12. [PadawansTask11](https://github.com/AliaksandrKratovich/PadawansTask11)
+13. [PadawansTask12](https://github.com/AliaksandrKratovich/PadawansTask12)
+14. [PadawansTask13](https://github.com/AliaksandrKratovich/PadawansTask13)
