@@ -12,10 +12,10 @@
 **Teaching**. In the university I work as a teacher of programming elective for first-year students. We parse academic and my own tasks. It's difficult to work with a big audience. But at the same time it is a good experience for me. 
 
 ### *MY TASKS*
-1. [Codewars profile](https://www.codewars.com/users/AliaksandrKratovich)
-2. [FancyCalc](https://github.com/AliaksandrKratovich/FancyCalc)
-3. [PadawansTask1](https://github.com/AliaksandrKratovich/PadawansTask1)
-4. [PadawansTask2](https://github.com/AliaksandrKratovich/PadawansTask2)
+
+
+3. [PadawansTask1](https://github.com/AliaksandrKratovich/PadawansTask1)1. [Codewars profile](https://www.codewars.com/users/AliaksandrKratovich)
+4. [PadawansTask2](https://github.com/AliaksandrKratovich/PadawansTask2)2. [FancyCalc](https://github.com/AliaksandrKratovich/FancyCalc)
 5. [PadawansTask3](https://github.com/AliaksandrKratovich/PadawansTask3)
 6. [PadawansTask4](https://github.com/AliaksandrKratovich/PadawansTask4)
 7. [PadawansTask5](https://github.com/AliaksandrKratovich/PadawansTask5)
