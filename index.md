@@ -14,9 +14,9 @@
 ### *MY TASKS*
 
 
-1. [PadawansTask1](https://github.com/AliaksandrKratovich/PadawansTask1)      1. [Codewars profile](https://www.codewars.com/users/AliaksandrKratovich)
-2. [PadawansTask2](https://github.com/AliaksandrKratovich/PadawansTask2)      2. [FancyCalc](https://github.com/AliaksandrKratovich/FancyCalc)
-3. [PadawansTask3](https://github.com/AliaksandrKratovich/PadawansTask3)      3. [Fibonacci](https://github.com/AliaksandrKratovich/Fibonacci)
+1. [PadawansTask1](https://github.com/AliaksandrKratovich/PadawansTask1) &nbsp;&nbsp;&nbsp;1. [Codewars profile](https://www.codewars.com/users/AliaksandrKratovich)
+2. [PadawansTask2](https://github.com/AliaksandrKratovich/PadawansTask2)&nbsp;&nbsp;&nbsp;2. [FancyCalc](https://github.com/AliaksandrKratovich/FancyCalc)
+3. [PadawansTask3](https://github.com/AliaksandrKratovich/PadawansTask3)&nbsp;&nbsp;&nbsp;3. [Fibonacci](https://github.com/AliaksandrKratovich/Fibonacci)
 4. [PadawansTask4](https://github.com/AliaksandrKratovich/PadawansTask4)
 5. [PadawansTask5](https://github.com/AliaksandrKratovich/PadawansTask5)
 6. [PadawansTask6](https://github.com/AliaksandrKratovich/PadawansTask6)
